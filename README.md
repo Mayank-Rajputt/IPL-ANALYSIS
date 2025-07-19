@@ -63,7 +63,6 @@ This project provides an end-to-end analytical view of IPL performance, season b
 - **Power BI** – Main tool for visualization, data modeling, DAX
 - **DAX (Data Analysis Expressions)** – All calculations & insights powered by custom measures
 - **Excel** – Raw data cleaning and initial preprocessing
-- **Python (Optional)** – If used, for optional pre-processing
 - **GitHub** – For version control and showcasing project
 
 ---
