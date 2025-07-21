@@ -38,6 +38,9 @@ This project provides an end-to-end analytical view of IPL performance, season b
 ![Points Table](SS/ptable.png)
 
 ---
+### 🔴 Live Walkthrough Video  
+👉 **Watch here:** [Click to View the Full Dashboard Walkthrough](https://drive.google.com/file/d/1Jtu-G1f2OmqiKClmwXj8fcQSqyLCZM_6/view?usp=drive_link)
+
 
 ## 💡 Key DAX Calculations
 
