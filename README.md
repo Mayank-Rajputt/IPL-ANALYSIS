@@ -110,8 +110,7 @@ Through this project, I gained practical experience in:
 
 👤 **Mayank Rana**  
 
-  🌍 Location: Meerut, Delhi NCR  
-
+  🌍 **Location**: Meerut, Delhi NCR  
 🔗 [LinkedIn](https://www.linkedin.com/in/mayank-rana9368/)
 
 📧 **Email**: [mayankrajputana9@gmail.com](mailto:mayankrajputana9@gmail.com)
